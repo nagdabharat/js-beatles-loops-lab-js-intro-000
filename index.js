@@ -20,6 +20,7 @@ function iLoveTheBeatles(number) {
   let i = 0;
   do {
     temp.push("I love the Beatles!")
+    i+=;
   } while (i + number < 15);
   return temp;
 }
